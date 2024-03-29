@@ -1,12 +1,14 @@
 # Cineplexify: A Fancy Movie Streaming Experience
 
-<img src="https://github.com/bitleakash6/NetFlixClone/blob/main/netflix.png">
+[Live Demo](https://cineplexify.netlify.app/)
 
 ---
 
 ## Project Introduction:
 
 Cineplexify is a web application that brings a fancy and sleek movie streaming experience to users, inspired by popular streaming platforms like Netflix. Built with HTML, CSS, and JavaScript, along with the styling magic of Tailwind CSS, Cineplexify aims to provide users with an immersive interface for discovering and watching their favorite movies. This project serves as a playground for developers to explore modern web development techniques and create a visually stunning movie streaming platform.
+
+<img src="https://github.com/bitleakash6/NetFlixClone/blob/main/netflix.png">
 
 ---
 
