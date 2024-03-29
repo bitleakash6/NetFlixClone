@@ -1,6 +1,6 @@
 # Cineplexify: A Fancy Movie Streaming Experience
 
-<img src="">
+<img src="https://github.com/bitleakash6/NetFlixClone/blob/main/netflix.png">
 
 ---
 
