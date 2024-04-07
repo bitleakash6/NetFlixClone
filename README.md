@@ -1,6 +1,6 @@
 # Cineplexify: A Fancy Movie Streaming Experience
 
-[Live Demo](https://cineplexify.netlify.app/)
+**[Live Demo](https://cineplexify.netlify.app/)**
 
 ---
 
